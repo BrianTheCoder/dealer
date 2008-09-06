@@ -1,0 +1,51 @@
+# Logfile created on Fri Sep 05 19:47:22 -0500 2008 by /
+I, [2008-09-05T19:47:24.847854 #14409]  INFO -- : New Blackjack game was dealt at Fri Sep 05 19:47:24 -0500 2008
+I, [2008-09-05T19:47:24.848028 #14409]  INFO -- : sibylla-BlackjackPlayer has 2,Jack
+I, [2008-09-05T19:47:24.848096 #14409]  INFO -- : unallowable-BlackjackPlayer has 3,Queen
+I, [2008-09-05T19:47:24.848159 #14409]  INFO -- : Erythronium-BlackjackPlayer has 4,King
+I, [2008-09-05T19:47:24.848232 #14409]  INFO -- : cerebellospinal-BlackjackPlayer has 5,Ace
+I, [2008-09-05T19:47:24.848295 #14409]  INFO -- : unhacked-BlackjackPlayer has 6,2
+I, [2008-09-05T19:47:24.848356 #14409]  INFO -- : bonneted-BlackjackPlayer has 7,3
+I, [2008-09-05T19:47:24.848416 #14409]  INFO -- : neuroparalytic-BlackjackPlayer has 8,4
+I, [2008-09-05T19:47:24.848476 #14409]  INFO -- : disconsolately-BlackjackPlayer has 9,5
+I, [2008-09-05T19:47:24.848545 #14409]  INFO -- : snouter-BlackjackDealer has 10,6
+I, [2008-09-05T19:47:24.848640 #14409]  INFO -- : sibylla-BlackjackPlayer hits a 12
+I, [2008-09-05T19:47:24.848712 #14409]  INFO -- : sibylla-BlackjackPlayer got a 7 and now has 19
+I, [2008-09-05T19:47:24.848791 #14409]  INFO -- : sibylla-BlackjackPlayer stands with a 19
+I, [2008-09-05T19:47:24.848873 #14409]  INFO -- : unallowable-BlackjackPlayer hits a 13
+I, [2008-09-05T19:47:24.848951 #14409]  INFO -- : unallowable-BlackjackPlayer got a 8 and now has 21
+I, [2008-09-05T19:47:24.849021 #14409]  INFO -- : unallowable-BlackjackPlayer stands with a 21
+I, [2008-09-05T19:47:24.849107 #14409]  INFO -- : Erythronium-BlackjackPlayer hits a 14
+I, [2008-09-05T19:47:24.849214 #14409]  INFO -- : Erythronium-BlackjackPlayer got a 9 and now has 23
+I, [2008-09-05T19:47:24.849309 #14409]  INFO -- : Erythronium-BlackjackPlayer stands with a 23
+I, [2008-09-05T19:47:24.849369 #14409]  INFO -- : cerebellospinal-BlackjackPlayer hits a 16
+I, [2008-09-05T19:47:24.849422 #14409]  INFO -- : cerebellospinal-BlackjackPlayer got a 10 and now has 16
+I, [2008-09-05T19:47:24.849480 #14409]  INFO -- : cerebellospinal-BlackjackPlayer hits a 16
+I, [2008-09-05T19:47:24.849534 #14409]  INFO -- : cerebellospinal-BlackjackPlayer got a Jack and now has 26
+I, [2008-09-05T19:47:24.849606 #14409]  INFO -- : cerebellospinal-BlackjackPlayer stands with a 26
+I, [2008-09-05T19:47:24.849664 #14409]  INFO -- : unhacked-BlackjackPlayer hits a 8
+I, [2008-09-05T19:47:24.849716 #14409]  INFO -- : unhacked-BlackjackPlayer got a Queen and now has 18
+I, [2008-09-05T19:47:24.849775 #14409]  INFO -- : unhacked-BlackjackPlayer stands with a 18
+I, [2008-09-05T19:47:24.849832 #14409]  INFO -- : bonneted-BlackjackPlayer hits a 10
+I, [2008-09-05T19:47:24.849885 #14409]  INFO -- : bonneted-BlackjackPlayer got a King and now has 20
+I, [2008-09-05T19:47:24.849954 #14409]  INFO -- : bonneted-BlackjackPlayer stands with a 20
+I, [2008-09-05T19:47:24.850011 #14409]  INFO -- : neuroparalytic-BlackjackPlayer hits a 12
+I, [2008-09-05T19:47:24.850063 #14409]  INFO -- : neuroparalytic-BlackjackPlayer got a Ace and now has 13
+I, [2008-09-05T19:47:24.850120 #14409]  INFO -- : neuroparalytic-BlackjackPlayer hits a 13
+I, [2008-09-05T19:47:24.850174 #14409]  INFO -- : neuroparalytic-BlackjackPlayer got a 2 and now has 15
+I, [2008-09-05T19:47:24.850233 #14409]  INFO -- : neuroparalytic-BlackjackPlayer hits a 15
+I, [2008-09-05T19:47:24.850288 #14409]  INFO -- : neuroparalytic-BlackjackPlayer got a 3 and now has 18
+I, [2008-09-05T19:47:24.850360 #14409]  INFO -- : neuroparalytic-BlackjackPlayer stands with a 18
+I, [2008-09-05T19:47:24.850417 #14409]  INFO -- : disconsolately-BlackjackPlayer hits a 14
+I, [2008-09-05T19:47:24.850469 #14409]  INFO -- : disconsolately-BlackjackPlayer got a 4 and now has 18
+I, [2008-09-05T19:47:24.850526 #14409]  INFO -- : disconsolately-BlackjackPlayer stands with a 18
+I, [2008-09-05T19:47:24.850584 #14409]  INFO -- : snouter-BlackjackDealer hits a 16
+I, [2008-09-05T19:47:24.850646 #14409]  INFO -- : snouter-BlackjackDealer got a 5 and now has 21
+I, [2008-09-05T19:47:24.850715 #14409]  INFO -- : snouter-BlackjackDealer stands with a 21
+I, [2008-09-05T19:47:24.850808 #14409]  INFO -- : dealer's 21 beats sibylla-BlackjackPlayer's 19
+I, [2008-09-05T19:47:24.850958 #14409]  INFO -- : Erythronium-BlackjackPlayer busted with a 23
+I, [2008-09-05T19:47:24.851046 #14409]  INFO -- : cerebellospinal-BlackjackPlayer busted with a 26
+I, [2008-09-05T19:47:24.851138 #14409]  INFO -- : dealer's 21 beats unhacked-BlackjackPlayer's 18
+I, [2008-09-05T19:47:24.851219 #14409]  INFO -- : dealer's 21 beats bonneted-BlackjackPlayer's 20
+I, [2008-09-05T19:47:24.851312 #14409]  INFO -- : dealer's 21 beats neuroparalytic-BlackjackPlayer's 18
+I, [2008-09-05T19:47:24.851393 #14409]  INFO -- : dealer's 21 beats disconsolately-BlackjackPlayer's 18
