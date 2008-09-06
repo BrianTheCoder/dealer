@@ -1,22 +1,31 @@
 require 'logger'
 class Game
-  attr_accessor :num_of_decks, :boot, :table_size, :logger, :players, :min_bet, :max_bet, :hand_size, :pot, :house
+  include DataMapper::Resource
+
+  property :id,                 Serial
+  property :type,               Discriminator
+  property :table_size,         Integer
+  property :num_of_decks,       Integer
+  property :min_bet,            Integer
+  property :max_bet,            Integer
+  property :hand_size,          Integer
+  property :created_at,         DateTime
+  
+  has n, :players
+  attr_accessor :boot, :logger, :pot, :house
   
   def initialize
-    @logger = Logger.new("#{self.class.to_s}-#{Time.now.to_i}.log")
     @players = []
     @pot = 0
     @house = 0
   end
   
   def deal
-    @logger.info("New #{self.class.to_s} game was dealt at #{Time.now}")
-    @players.each do |player|
+    players.each do |player|
       if player.purse < min_bet
-        @players.delete(player)
-        @logger.info("#{player.name} is broke and was removed from the game")
+        players.delete(player)
       else
-        player.hand = []
+        player.hands << Hand.new
       end
     end
   end
